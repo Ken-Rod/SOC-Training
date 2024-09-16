@@ -1,4 +1,4 @@
-# TryHackMe SOC Level 1:     
+# Google Cybersecurity Professional Certificate:     
 
 ### https://grow.google/certificates/cybersecurity/
 
