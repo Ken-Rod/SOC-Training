@@ -17,3 +17,4 @@ As an aspiring SOC analyst, I was naturally excited to complete Google's dedicat
 
 
 # Certificate:
+![THM](https://github.com/Ken-Rod/SOC-Training/blob/main/Google%20Cybersecurity%20Certificate.jpg)
